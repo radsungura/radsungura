@@ -1,3 +1,5 @@
+<img align="center" src="code.gif" width="100%" height="400" alt="Web Dev" />
+
 <h1 align="center">Hi 👋, I'm Aimé Rukundo</h1>
 <h3 align="center">A passionate Full stack Developer from Burundi</h3>
 <img align="right" src="dev1.gif" width="600" height="400" alt="Web Dev" />
