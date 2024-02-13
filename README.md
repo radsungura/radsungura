@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Angular, PHP, Html**
 
-- 📫 How to reach me **rukundaime@gmail.com**
+- 📫 How to reach me **rukunddiacre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
