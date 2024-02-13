@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Open source**
+- 👯 I’m looking to collaborate on **Open source Project**
 
-- 💬 Ask me about **Angular, PHP, Html**
+- 💬 Ask me about **Angular, PHP, Ionic**
 
 - 📫 How to reach me **rukunddiacre@gmail.com**
 
