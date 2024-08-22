@@ -26,6 +26,9 @@
 <a href="https://instagram.com/aimeruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aimeruk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/radtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="radtech" height="30" width="40" /></a>
 <a href="https://discord.gg/rad257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rad257" height="30" width="40" /></a>
+<a href="https://wa.me/+25761607690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rad257" height="30" width="40" /></a>
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
