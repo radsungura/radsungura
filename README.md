@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rukundaime" target="blank"><img src="https://img.shields.io/twitter/follow/rukundaime?logo=twitter&style=for-the-badge" alt="rukundaime" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb clone project**
+- 🔭 I’m currently working on **an LMS application**
 
 - 🌱 I’m currently learning **Python**
 
